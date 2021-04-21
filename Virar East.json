@@ -1,0 +1,54 @@
+{
+    "vaccineCenter": [
+        {
+            "HospitalName": "Rural Hospital Virar",
+            "Address": "Agashi Road, Pushpa Nagar, Virar West, Vasai Virar, Maharashtra, 401303",
+            "Direction": "https://eloc.me/7D3TBA"
+        },
+        {
+            "HospitalName": "Sanjeevani Hospital",
+            "Address": "Station Road, Vartak Ward, Opposite Virar Railway Station & Near Datta Mandir, Virar West, Vasai Virar, Maharashtra, 401303",
+            "Direction": "https://eloc.me/AC7A81"
+        },
+        {
+            "HospitalName": "Riddhi Vinayak Multispeciality Hospital",
+            "Address": "Plot No 302, Ahead Of Fun Fiesta Multiplex, Yashwant Gaurav Road, Nallasopara West, Near Railway Carshed, Morya Nagar, Vasai Virar, Maharashtra, 401203",
+            "Direction": "https://eloc.me/ZPVLAH"
+        },
+        {
+            "HospitalName": "Vijay Laxmi Hospital",
+            "Address": "Virar Road, Shree Dutta Nagar, Nallasopara East, Vasai Virar, Maharashtra, 401209",
+            "Direction": "https://eloc.me/22599F"
+        },
+        {
+            "HospitalName": "Dispensary and Vaccination Centre",
+            "Address": "Nallasopara Station Road, Panchal Nagar, Nallasopara West, Vasai Virar, Maharashtra, 401203",
+            "Direction": "https://eloc.me/8625CY"
+        },
+        {
+            "HospitalName": "Alliance Hospital",
+            "Address": "Tulinj Road, Near Atma Vallabh Society, Nalasopara East, Near State Bank, Ambavadi, Vasai Virar, Maharashtra, 401209",
+            "Direction": "https://eloc.me/EFF32A"
+        },
+        {
+            "HospitalName": "Nesco Nursing Home",
+            "Address": "Sopara Gaon, Samel Pada, Nallasopara West, Vasai Virar, Maharashtra, 401203",
+            "Direction": "https://eloc.me/TCFE6D"
+        },
+        {
+            "HospitalName": "Lifecare Charitable Hospital",
+            "Address": "C Wing, Martin Commercial Complex, Vasai Nalasopara New Link Road, Nalasopara East, Achole Gaon, Vasai Virar, Maharashtra, 401209",
+            "Direction": "https://eloc.me/9IHVHB"
+        },
+        {
+            "HospitalName": "Dahisar Covid Jumbo 1",
+            "Address": "Dahisar, Vasai, Palghar District, Maharashtra, 401303",
+            "Direction": "https://eloc.me/P4AER3"
+        },
+        {
+            "HospitalName": "Dahisar Covid Jumbo 2",
+            "Address": "Dahisar, Ghartanpada No 2, Vasai, Palghar District, Maharashtra, 401303",
+            "Direction": "https://eloc.me/P4EBL2"
+        }
+    ]
+}

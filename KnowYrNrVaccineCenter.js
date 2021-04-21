@@ -7,7 +7,7 @@ const fs = require("fs");
 
 let path = require("path");
 
-let yourLocation = process.argv[2];
+let yourLocation = process.argv[2];     // take input of Location
 
 let link = "https://www.cowin.gov.in/home";
 
@@ -29,21 +29,23 @@ let vaccineCenter;
         cTab = allTabsArr[0];
 
 
-        vaccineCenter = await findYourNearbyVaccineCenter(link, yourLocation);
+        vaccineCenter = await findYourNearbyVaccineCenter(link, yourLocation);  // get the list of vaccine Center you pass
 
 
         createPdf(vaccineCenter, yourLocation); // function to create pdf on basis of your vaccine center in your lo
 
 
-        let yourAddress = path.join(yourLocation + ".json");
+        
+        let yourAddress = path.join(yourLocation + ".json");        // Create  Json file on basis of Location you give
         fs.writeFile(yourAddress, JSON.stringify({ vaccineCenter }, null, 4), function (err) {
             if (err) throw err;
             console.log('complete');
         }
         );
+
         console.table(vaccineCenter);
 
-        // await cTab.click(".mapContent .searchDiv .inputSec .seachBtn");
+    
 
     }
     catch (err) {
@@ -57,7 +59,7 @@ async function findYourNearbyVaccineCenter(link, yourLocation) {
 
     await cTab.waitForSelector("#mmiMap1_search1", { visible: true });
 
-    await cTab.type("#mmiMap1_search1", yourLocation, { delay: 1000 });
+    await cTab.type("#mmiMap1_search1", yourLocation, { delay: 800 });
 
     await cTab.waitForSelector("#mmiMap1_search1_li0", { visible: true });
 
@@ -80,21 +82,21 @@ async function findYourNearbyVaccineCenter(link, yourLocation) {
 
 function consoleFn(blockSelector, hospitalNameSelector, addressSelector, directionSelector) {
     let allBlocks = document.querySelectorAll(blockSelector);
-    let list = [];
+    let listOfCentres = [];
     for (let i = 0; i < allBlocks.length; i++) {
         let hospitalName = allBlocks[i].querySelector(hospitalNameSelector);
         let hospitalAddress = allBlocks[i].querySelector(addressSelector);
         let hospitalDirection = allBlocks[i].querySelector(directionSelector);
 
-        console.log(hospitalDirection[i]);
+        
 
-        list.push({
+        listOfCentres.push({
             HospitalName: hospitalName.innerText,
             Address: hospitalAddress.textContent,
             Direction: hospitalDirection.getAttribute('href')
         });
     }
-    return list;
+    return listOfCentres;
 }
 
 
@@ -102,6 +104,7 @@ function createPdf(vaccineCenter, yourLocation) {
     let pdfDoc = new PDFDocument;
     pdfDoc.pipe(fs.createWriteStream(`${yourLocation}.pdf`));
 
+    // Design the header of pdf Page
     pdfDoc
         .image("logo.jpg", 50, 40, { width: 80 })
         .fillColor("#444444")
