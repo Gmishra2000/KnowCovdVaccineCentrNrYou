@@ -1,0 +1,54 @@
+{
+    "vaccineCenter": [
+        {
+            "HospitalName": "Bhagwan Mahavir Hospital, Pitampura",
+            "Address": "H 4/5, Near Pitampura Club, New Delhi, Delhi, 110034",
+            "Direction": "https://eloc.me/GW9CK6"
+        },
+        {
+            "HospitalName": "RG Stone Urology & Laparoscopy Hospital, Pitampura",
+            "Address": "194-195, Deepali Chowk, Pitampura, North Delhi, Deepali Enclave, New Delhi, Delhi, 110034",
+            "Direction": "https://eloc.me/6SS85A"
+        },
+        {
+            "HospitalName": "Jaipur Golden Heart Hospital",
+            "Address": "Plot No 2, Block B, Institutional Area, Sector 3, Rohini, Behind Dtc Bus Depot, Rama Park Road, Opposite Metro Pillar No 761, New Delhi, Delhi, 110085",
+            "Direction": "https://eloc.me/EB8CTD"
+        },
+        {
+            "HospitalName": "Premium Dentistry",
+            "Address": "A35, Lajpat Nagar, Near Telephone Exchange, New Delhi, Delhi, 110085",
+            "Direction": "https://eloc.me/PUF8IL"
+        },
+        {
+            "HospitalName": "Bhagwan Mahavir Hospital",
+            "Address": "Sector-14 Extension, Near Madhuban Chowk, Rohini, New Delhi, Delhi, 110085",
+            "Direction": "https://eloc.me/T111SE"
+        },
+        {
+            "HospitalName": "Saroj Super Speciality Hospital",
+            "Address": "Sector 14, Extension 2, Institutional Area, Bhagawan Mahavir Marg, Madhuban Chowk, Rohini, New Delhi, Delhi, 110085",
+            "Direction": "https://eloc.me/B2EDBF"
+        },
+        {
+            "HospitalName": "Jindal Vaccination Centre",
+            "Address": "Kapil Vihar, Pitampura, New Delhi, Delhi, 110034",
+            "Direction": "https://eloc.me/Z6CSQ9"
+        },
+        {
+            "HospitalName": "DCDC Kidney Care",
+            "Address": "Block B, New Multan Nagar, New Delhi, Delhi, 110056",
+            "Direction": "https://eloc.me/N3VFKZ"
+        },
+        {
+            "HospitalName": "Vision Eye Hospital",
+            "Address": "F 24/136, Near Ayodhya Chowk, Dividing Road Of 6 And 7, Sector 7, Rohini, New Delhi, Delhi, 110085",
+            "Direction": "https://eloc.me/2BBC8A"
+        },
+        {
+            "HospitalName": "Sri Balaji Action Medical Institute Entry Gate",
+            "Address": "Sri Balaji Action Medical Institute, Paschim Vihar, Block A4, New Delhi, Delhi, 110063",
+            "Direction": "https://eloc.me/TA08MJ"
+        }
+    ]
+}
