@@ -1,0 +1,54 @@
+{
+    "vaccineCenter": [
+        {
+            "HospitalName": "Lady Hardinge Medical Hospital",
+            "Address": "Connaught Place, Panchkuian Road, New Delhi, Delhi, 110001",
+            "Direction": "https://eloc.me/87C265"
+        },
+        {
+            "HospitalName": "Lhmc And Ks Hospital Session 2",
+            "Address": "Lady Hardinge Medical Hospital, Cp, New Delhi, Delhi, 110001",
+            "Direction": "https://eloc.me/PI7DY4"
+        },
+        {
+            "HospitalName": "Lhmc And Ks Hospital Session 1",
+            "Address": "Lady Hardinge Medical Hospital, Kalawati Saran Hospital, New Delhi, Delhi, 110001",
+            "Direction": "https://eloc.me/PI7X3G"
+        },
+        {
+            "HospitalName": "Northern Railway Central Hospital",
+            "Address": "Pahar Ganj, Basant Road, New Delhi, Delhi, 110055",
+            "Direction": "https://eloc.me/A1C44A"
+        },
+        {
+            "HospitalName": "Kalavati Saran Children Hospital",
+            "Address": "C 604, Shivaji Stadium Bus Terminal, Saheed Bhagat Singh Marg, Gole Market, Connaught Place, New Delhi, Delhi, 110001",
+            "Direction": "https://eloc.me/KFKF4L"
+        },
+        {
+            "HospitalName": "Lhmc And Ks.hospital Session 2",
+            "Address": "Lady Hardinge Medical Hospital, Kalawati Saran Hospital, New Delhi, Delhi, 110055",
+            "Direction": "https://eloc.me/PI7JE6"
+        },
+        {
+            "HospitalName": "Mrs Girdhari Lal Maternity Hospital",
+            "Address": "Kamla Market, Jawahar Lal Nehru Marg, New Delhi, Delhi, 110002",
+            "Direction": "https://eloc.me/16CF3C"
+        },
+        {
+            "HospitalName": "Guru Nanak Eye Centre",
+            "Address": "Maharaja Ranjit Singh Marg, 64 Khamba, Opposite Ranjit Hotel, Ajmere Gate, Rouse Avenue, New Delhi, Delhi, 110002",
+            "Direction": "https://eloc.me/D4DDAB"
+        },
+        {
+            "HospitalName": "NDMC Dispensary Babar Road",
+            "Address": "Babar Road, Connaught Place, Ndmc, District New Delhi, New Delhi, Delhi, 110001",
+            "Direction": "https://eloc.me/V3M46Y"
+        },
+        {
+            "HospitalName": "Govind Ballabh Pant Hospital",
+            "Address": "Jawahar Lal Nehru Marg, Rouse Avenue, New Delhi, Delhi, 110002",
+            "Direction": "https://eloc.me/3SSB8S"
+        }
+    ]
+}

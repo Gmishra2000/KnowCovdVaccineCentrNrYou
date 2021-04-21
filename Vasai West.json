@@ -1,0 +1,54 @@
+{
+    "vaccineCenter": [
+        {
+            "HospitalName": "Golden Park Hospital",
+            "Address": "Behind Parvati Cine Mall, Sai Nagar, Vasai Virar, Maharashtra, 401202",
+            "Direction": "https://eloc.me/31ZZBT"
+        },
+        {
+            "HospitalName": "Children Clinic & Vaccination Centre",
+            "Address": "Shop No 2, Parshavkrupa Complex, Vasai West, Vasai Virar, Maharashtra, 401202",
+            "Direction": "https://eloc.me/R2GEQL"
+        },
+        {
+            "HospitalName": "Janseva Hospital",
+            "Address": "Dattani Prism 1, Behind Dattani Square Mall, Papdi, Vasai Road West, Sandor, Vasai Virar, Maharashtra, 401202",
+            "Direction": "https://eloc.me/E7SB1M"
+        },
+        {
+            "HospitalName": "Lifecare Charitable Hospital",
+            "Address": "C Wing, Martin Commercial Complex, Vasai Nalasopara New Link Road, Nalasopara East, Achole Gaon, Vasai Virar, Maharashtra, 401209",
+            "Direction": "https://eloc.me/9IHVHB"
+        },
+        {
+            "HospitalName": "Alliance Hospital",
+            "Address": "Tulinj Road, Near Atma Vallabh Society, Nalasopara East, Near State Bank, Ambavadi, Vasai Virar, Maharashtra, 401209",
+            "Direction": "https://eloc.me/EFF32A"
+        },
+        {
+            "HospitalName": "Dispensary and Vaccination Centre",
+            "Address": "Nallasopara Station Road, Panchal Nagar, Nallasopara West, Vasai Virar, Maharashtra, 401203",
+            "Direction": "https://eloc.me/8625CY"
+        },
+        {
+            "HospitalName": "Nesco Nursing Home",
+            "Address": "Sopara Gaon, Samel Pada, Nallasopara West, Vasai Virar, Maharashtra, 401203",
+            "Direction": "https://eloc.me/TCFE6D"
+        },
+        {
+            "HospitalName": "Vijay Laxmi Hospital",
+            "Address": "Virar Road, Shree Dutta Nagar, Nallasopara East, Vasai Virar, Maharashtra, 401209",
+            "Direction": "https://eloc.me/22599F"
+        },
+        {
+            "HospitalName": "Riddhi Vinayak Multispeciality Hospital",
+            "Address": "Plot No 302, Ahead Of Fun Fiesta Multiplex, Yashwant Gaurav Road, Nallasopara West, Near Railway Carshed, Morya Nagar, Vasai Virar, Maharashtra, 401203",
+            "Direction": "https://eloc.me/ZPVLAH"
+        },
+        {
+            "HospitalName": "Rural Hospital Virar",
+            "Address": "Agashi Road, Pushpa Nagar, Virar West, Vasai Virar, Maharashtra, 401303",
+            "Direction": "https://eloc.me/7D3TBA"
+        }
+    ]
+}

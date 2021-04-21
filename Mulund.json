@@ -1,0 +1,54 @@
+{
+    "vaccineCenter": [
+        {
+            "HospitalName": "Vertex Hospital, Mulund",
+            "Address": "Mulund West, Veena Nagar, Phase 2, Mumbai, Maharashtra, 400080",
+            "Direction": "https://eloc.me/ZUOOPN"
+        },
+        {
+            "HospitalName": "Platinum Hospitals",
+            "Address": "G 103, 2nd Floor, Purvanchal Building, Near Mulund Check Naka, Opposite Allahabad Bank, Mumbai, Maharashtra, 400080",
+            "Direction": "https://eloc.me/10WZGW"
+        },
+        {
+            "HospitalName": "Sai Hospital , Dombivali",
+            "Address": "Thane Thane, Thane, Maharashtra, 400604",
+            "Direction": "https://eloc.me/PUEJW0"
+        },
+        {
+            "HospitalName": "Fortis Hospital, Mulund",
+            "Address": "Goregaon Mulund Link Road, Mulund West, Opposite D Mart, Mumbai, Maharashtra, 400080",
+            "Direction": "https://eloc.me/8T233D"
+        },
+        {
+            "HospitalName": "Fortis Hospital 1",
+            "Address": "Mulund Goregaon Link Road, Bhandup West, Mumbai, Maharashtra, 400080",
+            "Direction": "https://eloc.me/P46FH6"
+        },
+        {
+            "HospitalName": "Savarkar Hospital",
+            "Address": "Mahatma Phule Road, Hanuman Chowk, Mulund East, Mumbai, Maharashtra, 400081",
+            "Direction": "https://eloc.me/7E486S"
+        },
+        {
+            "HospitalName": "VD Savarkar Hospital2",
+            "Address": "Savarkar Hospital, Mahatma Phule Road Hanuman Chowk Mulund (e), Hanuman Chowk, Mumbai, Maharashtra, 400081",
+            "Direction": "https://eloc.me/P4KTDY"
+        },
+        {
+            "HospitalName": "VD Savarkar Hospital3",
+            "Address": "Savarkar Hospital, Mahatma Phule Road Hanuman Chowk Mulund (e), Hanuman Chowk, Mumbai, Maharashtra, 400081",
+            "Direction": "https://eloc.me/P4M6VA"
+        },
+        {
+            "HospitalName": "VD Savarkar Hospital1",
+            "Address": "Savarkar Hospital, Mahatma Phule Road Hanuman Chowk Mulund (e), Hanuman Chowk, Mumbai, Maharashtra, 400081",
+            "Direction": "https://eloc.me/P4KB05"
+        },
+        {
+            "HospitalName": "Post Covid Center Majiwada",
+            "Address": "Lodha Luxeria, Majiwada Nashik Highway, Pipeline Road, Thane W, Thane, Maharashtra, 400604",
+            "Direction": "https://eloc.me/PUAP7W"
+        }
+    ]
+}
