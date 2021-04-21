@@ -6,10 +6,16 @@
 
 * Install npm i puppeteer
 * Write the automation script to go on https://www.cowin.gov.in/home , at the same time pass input as "YourLocation"
-* Pass the appropriate selector and let the magic happen of automation using the code
-* Fetch the data and stor in json and also made a pdf using pdfkit library.
+* Passed the appropriate selector and let the magic happen of automation using the code
+* Fetched the data and stored in json file and also made a pdf using pdfkit library.
 
+## To run this project just clone the repo do 
+* npm i puppeteer
+* Run KnowYrNrVaccineCenter.js "Your Location" e.g KnowYrNrVaccineCenter.js "Patna Medical College"
 
 
 * This Project is to make Use of Knowledge Of Puppeteer, File System Module and Understand various Concept Of Javascript while implementing.
+
+
+## Do give suggestion for improvement 
 
