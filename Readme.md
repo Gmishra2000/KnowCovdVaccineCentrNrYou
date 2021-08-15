@@ -2,6 +2,8 @@
 
 **Idea is to generate all the covid **Vaccine Centers** Present Near Your location using Browser Automation with knowledge of Puppeteer and also store that data in Pdf and Json Format**
 
+![](image.jpg)
+
 ## Flow Of the project
 
 * Install npm i puppeteer
@@ -17,7 +19,6 @@
 
 * This Project is to make Use of Knowledge Of Puppeteer, File System Module and Understand various Concept Of Javascript while implementing.
 
+ 
 
-## Do give suggestion for improvement 
 
-![](Pitampura.pdf)
